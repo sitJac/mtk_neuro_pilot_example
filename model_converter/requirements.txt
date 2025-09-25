@@ -1,0 +1,25 @@
+# Required dependencies for NeuroPilot
+argparse>=1.2
+flatbuffers>=1.12.0
+jsonschema
+lxml
+matplotlib>=3.2
+natsort
+networkx
+numpy>=1.13.3,<2.0  # Ensure compatibility with older TensorFlow
+packaging
+plotly
+protobuf>=3.5.1,<4.0
+pybind11>=2.2
+singleton-decorator
+tqdm>=4.0
+
+# Optional dependencies (choose based on your needs)
+# TensorFlow v1/v2 Converter support
+tensorflow>=2.0,<2.12
+
+# PyTorch Converter support
+torch>=1.3,<2.0
+
+# ONNX Converter support
+onnx>=1.3,<1.14
