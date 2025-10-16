@@ -1,0 +1,8 @@
+/proj/mtk09942/s_ample/np_examples/build/CMakeFiles/rebuild_cache.dir
+/proj/mtk09942/s_ample/np_examples/build/CMakeFiles/edit_cache.dir
+/proj/mtk09942/s_ample/np_examples/build/CMakeFiles/ClassifyImage.dir
+/proj/mtk09942/s_ample/np_examples/build/CMakeFiles/DetectObject.dir
+/proj/mtk09942/s_ample/np_examples/build/CMakeFiles/utils.dir
+/proj/mtk09942/s_ample/np_examples/build/CMakeFiles/logger.dir
+/proj/mtk09942/s_ample/np_examples/build/CMakeFiles/GenericClassifier.dir
+/proj/mtk09942/s_ample/np_examples/build/CMakeFiles/profiler.dir

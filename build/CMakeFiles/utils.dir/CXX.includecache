@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/proj/mtk09942/s_ample/np_examples/logger/include/Logger.h
+cstdarg
+-
+
+/proj/mtk09942/s_ample/np_examples/utils/Utils.cpp
+fstream
+-
+../logger/include/Logger.h
+/proj/mtk09942/s_ample/np_examples/logger/include/Logger.h
+include/Utils.h
+/proj/mtk09942/s_ample/np_examples/utils/include/Utils.h
+
+/proj/mtk09942/s_ample/np_examples/utils/include/Utils.h
+string
+-
+vector
+-
+

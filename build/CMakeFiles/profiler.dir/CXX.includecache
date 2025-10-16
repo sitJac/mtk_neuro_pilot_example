@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/proj/mtk09942/s_ample/np_examples/profiler/ScopeProfiler.cpp
+include/ScopeProfiler.h
+/proj/mtk09942/s_ample/np_examples/profiler/include/ScopeProfiler.h
+
+/proj/mtk09942/s_ample/np_examples/profiler/Stopwatch.cpp
+include/Stopwatch.h
+/proj/mtk09942/s_ample/np_examples/profiler/include/Stopwatch.h
+
+/proj/mtk09942/s_ample/np_examples/profiler/include/ScopeProfiler.h
+string
+-
+Stopwatch.h
+/proj/mtk09942/s_ample/np_examples/profiler/include/Stopwatch.h
+
+/proj/mtk09942/s_ample/np_examples/profiler/include/Stopwatch.h
+chrono
+-
+stdint.h
+-
+
