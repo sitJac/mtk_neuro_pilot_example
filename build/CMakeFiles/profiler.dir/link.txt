@@ -1,2 +1,0 @@
-/usr/bin/ar qc libprofiler.a  CMakeFiles/profiler.dir/profiler/Stopwatch.cpp.o CMakeFiles/profiler.dir/profiler/ScopeProfiler.cpp.o
-/usr/bin/ranlib libprofiler.a
